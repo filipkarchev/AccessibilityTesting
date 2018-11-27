@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5368d70f539dafb8f55f6f61cc54f703/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/33cc1044634d1c7cc68561fb15ba33e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/807e0e9b513fca2cd8c4fac273871ec4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/02599d5db9a6ca373b47fca547f3912e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c536e3d0c2df0a6bf896672ebe33142a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d02529ddd34bf52f1e74553932b654e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/07f56f705310291b10b6c9bff0519271/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/add8faee1d0af3fc927c491e968de408/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b37f950e55f47051112d9a3b0abf43de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/0f92343d9f65956591a55c326b8677bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7c6da8430f73f6f7d9edb4a72abc37f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/87792436ea081a204366e46ec2821cdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7674875d0cec4f337c37bdded44d8b96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6265ace40acea52b05470758f99c3d9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c2388414045b2febddf1911416e8cef2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/183417a2ce884ef8cc0fb5736d392cf3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0cda58bb536bfbec7ed296a3c063965f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/97e40c20297edbc8e18bc5696ce9012e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b1a18d2ab560cc501fc8039fd13ce49b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ea4524b837f31655ba4fb0eeaa5b2ac/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/901578bc14b40998651bb89e83a2acce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3832a448332e449a871d82419bce96c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/106e41af2b118b3f8a69489f28b9967a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8029a2d6aa07831ed51c4a2ba0c5f2fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/87d46555973d441b0ae7b4fd24562862/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9a0d1f798af700b73461090e65eefed7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/abf6e91275919748cf30ab700db617f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7224944d12c0c4caaf9d7ac86a07ff08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/87ffb9732c60b4ef0d17d01b3d1ceebe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/88b91d4d38818d398cea07e19edfa75b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/934cf8109abca9f4df376012968e0a5e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:4:5-47
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from [com.android.support:design:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5368d70f539dafb8f55f6f61cc54f703/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5368d70f539dafb8f55f6f61cc54f703/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/807e0e9b513fca2cd8c4fac273871ec4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/807e0e9b513fca2cd8c4fac273871ec4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b1a18d2ab560cc501fc8039fd13ce49b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b1a18d2ab560cc501fc8039fd13ce49b/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ea4524b837f31655ba4fb0eeaa5b2ac/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ea4524b837f31655ba4fb0eeaa5b2ac/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b1a18d2ab560cc501fc8039fd13ce49b/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:11:9-54
+	android:permission
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:7:9-75
+	android:icon
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:13:9-40
+activity#eu.fbk.gauss.accesibilitytesting.MainActivity
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:21:27-74
+service#eu.fbk.gauss.accesibilitytesting.MyAccessibilityService
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:24:9-30:19
+	android:permission
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:25:13-79
+	android:name
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:24:18-56
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:26:13-28:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:27:17-92
+	android:name
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:27:25-89
+meta-data#android.accessibilityservice
+ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:29:13-108
+	android:resource
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:29:68-105
+	android:name
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml:29:24-67
+uses-sdk
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5368d70f539dafb8f55f6f61cc54f703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/5368d70f539dafb8f55f6f61cc54f703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/33cc1044634d1c7cc68561fb15ba33e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/33cc1044634d1c7cc68561fb15ba33e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/807e0e9b513fca2cd8c4fac273871ec4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/807e0e9b513fca2cd8c4fac273871ec4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/02599d5db9a6ca373b47fca547f3912e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/02599d5db9a6ca373b47fca547f3912e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c536e3d0c2df0a6bf896672ebe33142a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c536e3d0c2df0a6bf896672ebe33142a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d02529ddd34bf52f1e74553932b654e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/d02529ddd34bf52f1e74553932b654e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/07f56f705310291b10b6c9bff0519271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/07f56f705310291b10b6c9bff0519271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/add8faee1d0af3fc927c491e968de408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/add8faee1d0af3fc927c491e968de408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b37f950e55f47051112d9a3b0abf43de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b37f950e55f47051112d9a3b0abf43de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/0f92343d9f65956591a55c326b8677bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/0f92343d9f65956591a55c326b8677bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7c6da8430f73f6f7d9edb4a72abc37f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7c6da8430f73f6f7d9edb4a72abc37f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/87792436ea081a204366e46ec2821cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/87792436ea081a204366e46ec2821cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7674875d0cec4f337c37bdded44d8b96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/7674875d0cec4f337c37bdded44d8b96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6265ace40acea52b05470758f99c3d9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6265ace40acea52b05470758f99c3d9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c2388414045b2febddf1911416e8cef2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c2388414045b2febddf1911416e8cef2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/183417a2ce884ef8cc0fb5736d392cf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/183417a2ce884ef8cc0fb5736d392cf3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0cda58bb536bfbec7ed296a3c063965f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0cda58bb536bfbec7ed296a3c063965f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/97e40c20297edbc8e18bc5696ce9012e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/97e40c20297edbc8e18bc5696ce9012e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b1a18d2ab560cc501fc8039fd13ce49b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/b1a18d2ab560cc501fc8039fd13ce49b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ea4524b837f31655ba4fb0eeaa5b2ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ea4524b837f31655ba4fb0eeaa5b2ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/901578bc14b40998651bb89e83a2acce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/901578bc14b40998651bb89e83a2acce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3832a448332e449a871d82419bce96c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/3832a448332e449a871d82419bce96c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/106e41af2b118b3f8a69489f28b9967a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/106e41af2b118b3f8a69489f28b9967a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8029a2d6aa07831ed51c4a2ba0c5f2fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8029a2d6aa07831ed51c4a2ba0c5f2fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/87d46555973d441b0ae7b4fd24562862/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/87d46555973d441b0ae7b4fd24562862/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9a0d1f798af700b73461090e65eefed7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9a0d1f798af700b73461090e65eefed7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/abf6e91275919748cf30ab700db617f8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/abf6e91275919748cf30ab700db617f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7224944d12c0c4caaf9d7ac86a07ff08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7224944d12c0c4caaf9d7ac86a07ff08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/87ffb9732c60b4ef0d17d01b3d1ceebe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/87ffb9732c60b4ef0d17d01b3d1ceebe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/88b91d4d38818d398cea07e19edfa75b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/88b91d4d38818d398cea07e19edfa75b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/934cf8109abca9f4df376012968e0a5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/teracomm/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/934cf8109abca9f4df376012968e0a5e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/teracomm/Documents/Trento/Research Project/android-accessibility/AccesibilityTesting/app/src/main/AndroidManifest.xml
